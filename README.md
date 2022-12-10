@@ -1,6 +1,6 @@
 ## E ae, eu sou Bruno Alécio
 
-- 📚 - Hoje estou estudando Front-end(Next.js) e querendo aprender a fazer tambêm gamedev;
+- 📚 - Hoje estou estudando Front-end e querendo aprender a fazer tambêm gamedev;
 - 🕹 - Trabalho por enquanto com manutenção de consoles;
 - 👓 - Quando estou fazendo MOD's nos meus consoles busco em várias meios pra conseguir fazer, irei criar repositórios em pt-BR pra ficar mais fácil a busca de um MOD ou algo relacionado.
 
